@@ -1,2 +1,0 @@
-# JuniverseAuth
-Juniverse Auth Server !
